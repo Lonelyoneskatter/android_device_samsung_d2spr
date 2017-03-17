@@ -29,3 +29,5 @@
 # Assert
 TARGET_OTA_ASSERT_DEVICE := d2spr,d2spi,d2tfnspr,d2lte
 
+# Compile libhwui in performance mode
+HWUI_COMPILE_FOR_PERF := true
